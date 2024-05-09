@@ -36,6 +36,10 @@ var namespaces_dup =
       [ "lps", "dd/d24/namespacedynamic__programming.html#afe9f45b6e30ee187509da2d1d0093412", null ],
       [ "maxCircularSum", "dd/d24/namespacedynamic__programming.html#a5239174fa0d987f2c67edc1f2af82beb", null ]
     ] ],
+    [ "EquilibriumIndex", "de/dfc/namespace_equilibrium_index.html", [
+      [ "findEquilibriumIndex", "de/dfc/namespace_equilibrium_index.html#a1f6c6b4d9486dc567126ac41ecb5cea4", null ],
+      [ "test", "de/dfc/namespace_equilibrium_index.html#a6e86ff8565c3a4aec25e5e9135bfe3b9", null ]
+    ] ],
     [ "false_position", "df/dea/namespacefalse__position.html", null ],
     [ "fibonacci_sum", "d3/dc9/namespacefibonacci__sum.html", null ],
     [ "find_non_repeating_integer", "d2/da7/namespacefind__non__repeating__integer.html", null ],

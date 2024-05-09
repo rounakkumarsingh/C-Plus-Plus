@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['hamming_5fdistance_0',['hamming_distance',['../d4/d1c/namespacehamming__distance.html',1,'']]],
-  ['hashing_1',['hashing',['../d6/d0c/namespacehashing.html',1,'']]],
-  ['heavy_5flight_5fdecomposition_2',['heavy_light_decomposition',['../db/d6f/namespaceheavy__light__decomposition.html',1,'']]],
-  ['horspool_3',['horspool',['../d5/d02/namespacehorspool.html',1,'']]],
-  ['house_5frobber_4',['house_robber',['../d2/de1/namespacehouse__robber.html',1,'']]]
+  ['geometric_5fdist_0',['geometric_dist',['../dd/d8a/namespacegeometric__dist.html',1,'']]],
+  ['geometry_1',['geometry',['../d5/d5f/namespacegeometry.html',1,'']]],
+  ['gram_5fschmidt_2',['gram_schmidt',['../d4/d0f/namespacegram__schmidt.html',1,'']]],
+  ['graph_3',['graph',['../df/dce/namespacegraph.html',1,'']]],
+  ['graph_5fcoloring_4',['graph_coloring',['../d7/d08/namespacegraph__coloring.html',1,'']]],
+  ['greedy_5falgorithms_5',['greedy_algorithms',['../d2/d90/namespacegreedy__algorithms.html',1,'']]],
+  ['ground_5fto_5fground_5fprojectile_5fmotion_6',['ground_to_ground_projectile_motion',['../d0/d20/namespaceground__to__ground__projectile__motion.html',1,'']]]
 ];
